@@ -29,7 +29,7 @@ Adding components to schematic:
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/9c870e93-74cd-47eb-b9f1-6778528d8dfa)
 
 
-## Adding pins to schematic:
+ Adding pins to schematic:
 
 ⦁ Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’. ⦁ Add pin form appears. Type the following in the ADD pin form in the next order leaving space between the pin.
 
