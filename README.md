@@ -1,7 +1,7 @@
-# EXP-6
-# DATE
+## EXP-6
+## DATE
 
-## SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL.
+### SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL.
 
 ## AIM:
 
@@ -13,7 +13,7 @@
 
 ## PROCEDURE:
 
-# SCHEMATIC ENTRY:
+## SCHEMATIC ENTRY:
 
 Creating a new library:
 
@@ -30,7 +30,7 @@ Adding components to schematic:
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/9c870e93-74cd-47eb-b9f1-6778528d8dfa)
 
 
-# Adding pins to schematic:
+## Adding pins to schematic:
 
 ⦁ Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’. ⦁ Add pin form appears. Type the following in the ADD pin form in the next order leaving space between the pin.
 
@@ -40,7 +40,7 @@ Adding wires to schematic: ⦁ Click the wire (narrow) icon in the schematic win
 
 Saving the design: Click the check and save icon in the schematic editor window observe CIW output for any errors.
 
-# BUILDING THE INVERTER TEST DESIGN:
+## BUILDING THE INVERTER TEST DESIGN:
 
 Creating the inverter test cell view:
 
@@ -49,7 +49,7 @@ Creating the inverter test cell view:
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/d2660630-b1e3-49ae-ae12-1179208bb3c2)
 
 
-# ANALOG SIMULATION WITH SPECTRA:
+## ANALOG SIMULATION WITH SPECTRA:
 
 Starting the simulation environment:
 
@@ -73,27 +73,27 @@ Running the simulation:
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/7f9f8909-2454-49d1-9072-77aac0bafb96)
 
 
-# CMOS NAND GATE NAND SCHEMATIC:
+## CMOS NAND GATE NAND SCHEMATIC:
 
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/487a6672-9305-4997-8b9c-16f73d9cafe5)
 
 
-# NAND TEST CELL VIEW:
+## NAND TEST CELL VIEW:
 
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/08b4268f-c2e2-41a1-b87d-38fb3b954bdd)
 
 
-# NAND SIMULATION WITH SPECTRA CMOS NOR GATE NOR SCHEMATIC:
+## NAND SIMULATION WITH SPECTRA CMOS NOR GATE NOR SCHEMATIC:
 
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/ece2ad94-d67d-4967-8118-437cd7a64083)
 
 
-# NOR TEST CELL VIEW:
+## NOR TEST CELL VIEW:
 
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/d0cb99be-a36b-415f-8413-f14dfe2bd055)
 
 
-# NOR SIMULATION WITH SPECTRA:
+## NOR SIMULATION WITH SPECTRA:
 
 ![image](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-6/assets/153823077/990eb330-7d8b-417b-8d7a-4232994ae8cf)
 
